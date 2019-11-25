@@ -2722,120 +2722,120 @@
       "Enabled": false,
       "ItemList": {
         "ammo.pistol": {
-          "Max": 15,
-          "Min": 15
+          "Max": 200,
+          "Min": 150
         },
         "ammo.rifle": {
-          "Max": 15,
-          "Min": 8
+          "Max": 600,
+          "Min": 500
         },
         "ammo.rifle.explosive": {
-          "Max": 30,
-          "Min": 30
+          "Max": 600,
+          "Min": 500
         },
         "ammo.rifle.hv": {
-          "Max": 40,
-          "Min": 40
+          "Max": 600,
+          "Min": 500
         },
         "ammo.rifle.incendiary": {
-          "Max": 60,
-          "Min": 60
+          "Max": 600,
+          "Min": 500
         },
         "ammo.rocket.fire": {
-          "Max": 5,
-          "Min": 5
+          "Max": 50,
+          "Min": 25
         },
         "ammo.rocket.hv": {
-          "Max": 3,
-          "Min": 3
+          "Max": 50,
+          "Min": 25
         },
         "ammo.shotgun": {
-          "Max": 12,
-          "Min": 8
+          "Max": 200,
+          "Min": 150
         },
         "cctv.camera": {
-          "Max": 1,
-          "Min": 1
+          "Max": 30,
+          "Min": 25
         },
         "door.double.hinged.toptier": {
-          "Max": 1,
-          "Min": 1
+          "Max": 3,
+          "Min": 2
         },
         "door.hinged.toptier": {
-          "Max": 1,
-          "Min": 1
+          "Max": 3,
+          "Min": 2
         },
         "explosive.timed": {
-          "Max": 1,
-          "Min": 1
+          "Max": 600,
+          "Min": 500
         },
         "floor.ladder.hatch": {
-          "Max": 1,
-          "Min": 1
+          "Max": 3,
+          "Min": 2
         },
         "lmg.m249": {
-          "Max": 1,
-          "Min": 1
+          "Max": 5,
+          "Min": 4
         },
         "pistol.m92": {
-          "Max": 1,
-          "Min": 1
+          "Max": 3,
+          "Min": 2
         },
         "rifle.ak": {
-          "Max": 1,
-          "Min": 1
+          "Max": 5
+          "Min": 4
         },
         "rifle.bolt": {
-          "Max": 1,
-          "Min": 1
+          "Max": 3,
+          "Min": 2
         },
         "rifle.l96": {
-          "Max": 1,
-          "Min": 1
+          "Max": 3,
+          "Min": 2
         },
         "rifle.lr300": {
-          "Max": 1,
-          "Min": 1
+          "Max": 5,
+          "Min": 4
         },
         "rifle.m39": {
-          "Max": 1,
-          "Min": 1
+          "Max": 5,
+          "Min": 4
         },
         "shotgun.spas12": {
-          "Max": 1,
-          "Min": 1
+          "Max": 5,
+          "Min": 4
         },
         "smg.2": {
-          "Max": 1,
-          "Min": 1
+          "Max": 5,
+          "Min": 4
         },
         "smg.mp5": {
-          "Max": 1,
-          "Min": 1
+          "Max": 5,
+          "Min": 4
         },
         "smg.thompson": {
-          "Max": 1,
-          "Min": 1
+          "Max": 5,
+          "Min": 4
         },
         "targeting.computer": {
-          "Max": 1,
-          "Min": 1
-        },
-        "techparts": {
-          "Max": 12,
+          "Max": 15,
           "Min": 10
         },
+        "techparts": {
+          "Max": 50,
+          "Min": 25
+        },
         "weapon.mod.8x.scope": {
-          "Max": 1,
-          "Min": 1
+          "Max": 25,
+          "Min": 10
         },
         "weapon.mod.lasersight": {
-          "Max": 1,
-          "Min": 1
+          "Max": 25,
+          "Min": 10
         },
         "weapon.mod.small.scope": {
-          "Max": 1,
-          "Min": 1
+          "Max": 25,
+          "Min": 10
         }
       },
       "ItemsMax": 7,
@@ -2851,158 +2851,158 @@
           "Min": 200
         },
         "ammo.pistol.fire": {
-          "Max": 80,
-          "Min": 80
+          "Max": 250,
+          "Min": 200
         },
         "ammo.pistol.hv": {
-          "Max": 60,
-          "Min": 60
+          "Max": 250,
+          "Min": 200
         },
         "ammo.rifle": {
-          "Max": 120,
-          "Min": 120
+          "Max": 550,
+          "Min": 500
         },
         "ammo.rifle.explosive": {
-          "Max": 30,
-          "Min": 30
+          "Max": 550,
+          "Min": 500
         },
         "ammo.rifle.hv": {
-          "Max": 40,
-          "Min": 40
+          "Max": 550,
+          "Min": 500
         },
         "ammo.rifle.incendiary": {
-          "Max": 60,
-          "Min": 60
+          "Max": 550,
+          "Min": 500
         },
         "ammo.rocket.basic": {
-          "Max": 3,
-          "Min": 3
+          "Max": 25,
+          "Min": 20
         },
         "ammo.rocket.fire": {
-          "Max": 5,
-          "Min": 5
+          "Max": 25,
+          "Min": 20
         },
         "ammo.rocket.hv": {
-          "Max": 3,
-          "Min": 3
+          "Max": 25,
+          "Min": 20
         },
         "ammo.shotgun": {
-          "Max": 12,
-          "Min": 8
+          "Max": 150,
+          "Min": 100
         },
         "cctv.camera": {
-          "Max": 1,
-          "Min": 1
+          "Max": 15,
+          "Min": 5
         },
         "door.double.hinged.toptier": {
-          "Max": 1,
-          "Min": 1
+          "Max": 5,
+          "Min": 3
         },
         "door.hinged.toptier": {
-          "Max": 1,
-          "Min": 1
+          "Max": 5,
+          "Min": 3
         },
         "explosive.timed": {
-          "Max": 2,
-          "Min": 2
+          "Max": 30,
+          "Min": 15
         },
         "explosives": {
-          "Max": 1,
-          "Min": 1
+          "Max": 150,
+          "Min": 100
         },
         "gates.external.high.stone": {
-          "Max": 1,
-          "Min": 1
+          "Max": 10,
+          "Min": 5
         },
         "lmg.m249": {
-          "Max": 1,
-          "Min": 1
+          "Max": 7,
+          "Min": 5
         },
         "metal.facemask": {
-          "Max": 1,
+          "Max": 5,
           "Min": 1
         },
         "metal.plate.torso": {
-          "Max": 1,
+          "Max": 5,
           "Min": 1
         },
         "pistol.m92": {
-          "Max": 1,
+          "Max": 4,
           "Min": 1
         },
         "rifle.ak": {
-          "Max": 1,
+          "Max": 6,
           "Min": 1
         },
         "rifle.bolt": {
-          "Max": 1,
+          "Max": 6,
           "Min": 1
         },
         "rifle.l96": {
-          "Max": 1,
+          "Max": 6,
           "Min": 1
         },
         "rifle.lr300": {
-          "Max": 1,
+          "Max": 6,
           "Min": 1
         },
         "rifle.m39": {
-          "Max": 1,
+          "Max": 6,
           "Min": 1
         },
         "shotgun.spas12": {
-          "Max": 1,
+          "Max": 4,
           "Min": 1
         },
         "smg.2": {
-          "Max": 1,
+          "Max": 4,
           "Min": 1
         },
         "smg.mp5": {
-          "Max": 1,
+          "Max": 4,
           "Min": 1
         },
         "smg.thompson": {
-          "Max": 1,
+          "Max": 4,
           "Min": 1
         },
         "targeting.computer": {
-          "Max": 1,
-          "Min": 1
+          "Max": 15,
+          "Min": 5
         },
         "wall.window.bars.toptier": {
           "Max": 1,
           "Min": 1
         },
         "weapon.mod.8x.scope": {
-          "Max": 1,
-          "Min": 1
+          "Max": 15,
+          "Min": 5
         },
         "weapon.mod.flashlight": {
-          "Max": 1,
-          "Min": 1
+          "Max": 15,
+          "Min": 5
         },
         "weapon.mod.holosight": {
-          "Max": 1,
-          "Min": 1
+          "Max": 15,
+          "Min": 5
         },
         "weapon.mod.lasersight": {
-          "Max": 1,
-          "Min": 1
+          "Max": 15,
+          "Min": 5
         },
         "weapon.mod.silencer": {
-          "Max": 1,
-          "Min": 1
+          "Max": 15,
+          "Min": 5
         },
         "weapon.mod.small.scope": {
-          "Max": 1,
-          "Min": 1
+          "Max": 15,
+          "Min": 5
         }
       },
-      "ItemsMax": 1,
-      "ItemsMin": 1,
+      "ItemsMax": 20,
+      "ItemsMin": 15,
       "MaxBPs": 0,
-      "Scrap": 10
+      "Scrap": 1500
     }
   }
 }
