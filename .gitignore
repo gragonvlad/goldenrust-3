@@ -1,0 +1,8 @@
+/logs/*
+
+/data/*
+!/data/Kits.json
+
+GameStoresRUST.json
+RustStore.json
+
