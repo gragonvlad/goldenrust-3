@@ -2782,7 +2782,7 @@
           "Min": 2
         },
         "rifle.ak": {
-          "Max": 5
+          "Max": 5,
           "Min": 4
         },
         "rifle.bolt": {
