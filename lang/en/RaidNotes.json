@@ -1,0 +1,20 @@
+{
+  "Announce: Prefix": "Raid",
+  "Announce: Start": "{initiatorClan} {initiator} ({initiatorClanMates}) is raiding {victimClan} {victim} ({victimClanMates})",
+  "Announce: End": "{initiatorClan} {initiator} ({initiatorClanMates}) raided {victimClan} {victim} ({victimClanMates}) using {weaponList} destroying {destroyedList}",
+  "Announce: Slack Start": "{initiatorClan} {initiator} ({initiatorClanMates}) is raiding {victimClan} {victim} ({victimClanMates})",
+  "Announce: Slack End": "{initiatorClan} {initiator} ({initiatorClanMates}) raided {victimClan} {victim} ({victimClanMates}) with {weaponList} destroying {destroyedList}",
+  "Announce: Discord Start": "{initiatorClan} {initiator} ({initiatorClanMates}) is raiding {victimClan} {victim} ({victimClanMates})",
+  "Announce: Discord End": "{initiatorClan} {initiator} ({initiatorClanMates}) raided {victimClan} {victim} ({victimClanMates}) with {weaponList} destroying {destroyedList}",
+  "Denied: Permission": "You lack permission to do that",
+  "Raid: Found": "<size=15>Raid(s) found: {raidCount}</size>",
+  "Raid: Started": "Started: <b>{date}</b>",
+  "Raid: Ended": "Ended: <b>{date}</b>",
+  "Raid: Duration": "Duration: <b>{duration}</b> minutes",
+  "Raid: Initiator": "Initiator: <b>{initiatorName}</b> ({initiatorID})",
+  "Raid: PlayerList": "{listName}: <b>{list}</b>",
+  "Raid: Activity": "Raid",
+  "Target: Nothing": "Nothing",
+  "Cooldown: Seconds": "You are doing that too often, try again in a {0} seconds(s).",
+  "Cooldown: Minutes": "You are doing that too often, try again in a {0} minute(s)."
+}
